@@ -35,3 +35,6 @@ What type of category your issue is.
 
 * Can I apply for staff here?
 > Short answer **no**
+
+* Can I report other players here?
+> Short answer **no**
