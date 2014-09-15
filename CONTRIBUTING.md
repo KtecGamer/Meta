@@ -11,6 +11,8 @@ Give a brief explanation to what the issue is about.
 ### Description
 Describe that issue in detail.
 
+### Labels
+Try and apply a correct label so we can address it asap.
 
 ## Optional
 
@@ -28,3 +30,5 @@ Description:
 > As a spectator you can not hurt the players that are playing but you can hurt the other spectators. This causes problems as you want to spectate the game in peace.
 
 > [IMG] - (Image is a picture of the player as a spectator with a half filled health bar)
+
+> Lables: [BUG]  [SERVER]

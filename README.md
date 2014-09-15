@@ -37,4 +37,4 @@ What type of category your issue is.
 > Short answer **no**
 
 * Can I report other players here?
-> Short answer **no**
+> Short answer **yes**
